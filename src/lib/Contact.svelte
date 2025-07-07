@@ -4,7 +4,7 @@
   let linkedin = "https://www.linkedin.com/in/kailyn-lau-8b60a4333/";
 </script>
 
-<section id="contact" class="section contact">
+<footer id="contact" class="section">
   <h2>Contact Me</h2>
   <p>Want to collaborate, connect, or just say hi?</p>
   <a class="contact-link" href="mailto: {email}">Mail: kailynmlau@gmail.com</a>
@@ -12,7 +12,7 @@
     >LinkedIn: Kailyn Lau</a
   >
   <a class="contact-link" href={github} target="_blank">Github: booknut123</a>
-</section>
+</footer>
 
 <style>
   .contact-link {
